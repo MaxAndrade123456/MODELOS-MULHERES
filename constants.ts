@@ -1,7 +1,7 @@
 import { ModelMap, Translations } from './types';
 
 export const MODELS: ModelMap = {
-  priscila: "https://t.me/teste1",
+  priscila: "https://t.me/priscilaacesso_bot",
   leticia : "https://t.me/teste2",
   maria : "https://t.me/teste3"
 };
